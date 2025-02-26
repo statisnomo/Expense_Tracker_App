@@ -43,3 +43,40 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Android
+android/.gradle
+android/build
+android/local.properties
+android/.idea/caches/
+android/.idea/modules.xml
+android/.idea/workspace.xml
+
+# iOS
+ios/Flutter/App.framework/
+ios/Flutter/Flutter.framework/
+ios/build/
+ios/.symlinks/plugins/
+
+# Flutter
+.dart_tool/
+.flutter-plugins
+.packages
+pubspec.lock
+
+# Build artifacts
+build/
+*.apk
+*.ipa
+
+# IDE and OS
+.DS_Store
+.idea/
+*.iml
+*.swp
+*.swo
+tmp/
+xcuserdata/
+
+# Generated files
+**/generated_plugin_registrant.dart
