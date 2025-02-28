@@ -1,10 +1,16 @@
-# expense_tracker_app
+# Expense Tracker App
 
-A new Flutter project.
+Anand Venkataraman
+ID: 2024A3PS0397H
+Submitting for the SWD Nucleus Tech Team Inductions
 
-## Getting Started
+The code is written by Google AI Studio
+I've tried learning basic Flutter, but it will require a lot more time to get the hang of it.
+There are still fixes to be made to make the application functional and I have just uploaded whatever I have done till now
+Thank you, 
+Regards
 
 This project is a starting point for a Flutter application.
 
 Credits- Google AI Studio 
-Thank you Google!
+Thank you, Google!
